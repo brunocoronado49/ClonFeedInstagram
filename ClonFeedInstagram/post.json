@@ -1,0 +1,42 @@
+[
+    {
+        "id": 101,
+        "user": "brauny",
+        "postName": "codigo",
+        "likes": 15,
+        "description": "Hola este es un wallpaper de codigo",
+        "favorite": false
+    },
+    {
+        "id": 102,
+        "user": "rosaila",
+        "postName": "abstracto",
+        "likes": 20,
+        "description": "Imagen bien chida veda",
+        "favorite": false
+    },
+    {
+        "id": 103,
+        "user": "arnold",
+        "postName": "asuna",
+        "likes": 25,
+        "description": "Una mona china de SAO",
+        "favorite": false
+    },
+    {
+        "id": 104,
+        "user": "mayuko",
+        "postName": "red",
+        "likes": 30,
+        "description": "Imagen muy buena pa poner de fondo",
+        "favorite": false
+    },
+    {
+        "id": 105,
+        "user": "karo",
+        "postName": "code",
+        "likes": 35,
+        "description": "Hola este es un wallpaper de codigo",
+        "favorite": false
+    },
+]

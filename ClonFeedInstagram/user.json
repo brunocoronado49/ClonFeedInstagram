@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "username": "brauny",
+        "pictureName": "brauny",
+        "friend": false
+    },
+    {
+        "id": 2,
+        "username": "rosaila",
+        "pictureName": "rosaila",
+        "friend": false
+    },
+    {
+        "id": 3,
+        "username": "arnold",
+        "pictureName": "arnold",
+        "friend": false
+    },
+    {
+        "id": 4,
+        "username": "mayuko",
+        "pictureName": "mayuko",
+        "friend": false
+    },
+    {
+        "id": 5,
+        "username": "karo",
+        "pictureName": "karo",
+        "friend": false
+    },
+    {
+        "id": 6,
+        "username": "ali",
+        "pictureName": "ali",
+        "friend": false
+    },
+    {
+        "id": 7,
+        "username": "juan",
+        "pictureName": "juan",
+        "friend": false
+    },
+    {
+        "id": 8,
+        "username": "feli",
+        "pictureName": "feli",
+        "friend": false
+    },
+    {
+        "id": 9,
+        "username": "yorch",
+        "pictureName": "yorch",
+        "friend": false
+    },
+]

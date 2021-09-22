@@ -11,7 +11,8 @@ import SwiftUI
 struct ClonFeedInstagramApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            TabMenu()
+                .environmentObject(ModelData())
         }
     }
 }
